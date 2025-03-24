@@ -7,6 +7,8 @@
 - 😄 Pronouns: Ela/Dela
 <br/>
 
+![trizDamacena's Stats](https://github-readme-stats.vercel.app/api?username=trizDamacena&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+
 Linguagens:
 <div>
 <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
