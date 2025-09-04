@@ -19,6 +19,8 @@ Linguagens:
   <img align="center" alt="Rafa-Python" height="40" width="40" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/c%23.png">
   <img align="center" alt="Rafa-Python" height="40" width="40" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/c.png">
   <img align="center" alt="Rafa-Python" height="40" width="40" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/c++.png">
+  <img align="center" alt="Rafa-Python" height="40" width="40" src="https://img.icons8.com/ios/250/000000/notion.png">
+  
 </div>
 
 Ferramentas:
