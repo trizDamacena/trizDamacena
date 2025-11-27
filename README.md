@@ -8,6 +8,7 @@
 <br/>
 
 ![trizDamacena's Stats](https://github-readme-stats.vercel.app/api?username=trizDamacena&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+[![trizDamacena](https://github-readme-stats.vercel.app/api/top-langs/?username=iuricode&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 Linguagens:
 <div>
